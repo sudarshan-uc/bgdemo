@@ -63,7 +63,8 @@
           </ol>
           <h1>Welcome to an OpenShift Application! created by Jatan Malde</h1>
           <p>The purpose of this application is to demonstrate several interesting features about OpenShift. We hope you enjoy it!
-          For more about the creator click on the link below<a href="https://jatanmalde.wordpress.com/">here</a></p>
+          For more about the creator click on the link below<a href="https://jatanmalde.wordpress.com/">here</a>
+          For more about the creator click on the link below<a href="https://jatanmalde.github.io/">here</a></p>
         </div>
       </div>
       <div class="row">
