@@ -4,7 +4,7 @@
 <html>
 <!--<![endif]-->
   <head>
-    <title>Basic - PatternFly</title>
+    <title>Basic - JatanMalde</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="../dist/img/favicon.ico">
     <!-- iPad retina icon -->
@@ -38,7 +38,7 @@
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="/">
-          <img src="../dist/img/brand.svg" alt="PatternFly Enterprise Application" />
+          <img src="../dist/img/brand.svg" alt="JatanMalde Enterprise Application" />
         </a>
       </div>
       <div class="collapse navbar-collapse navbar-collapse-1">
@@ -61,8 +61,9 @@
             <li><a href="#">Home</a></li>
             <li>Basic</li>
           </ol>
-          <h1>Welcome to an OpenShift Application!</h1>
-          <p>The purpose of this application is to demonstrate several interesting features about OpenShift. We hope you enjoy it!</p>
+          <h1>Welcome to an OpenShift Application! created by Jatan Malde</h1>
+          <p>The purpose of this application is to demonstrate several interesting features about OpenShift. We hope you enjoy it!
+          For more about the creator click on the link below<a href="https://jatanmalde.wordpress.com/">here</a></p>
         </div>
       </div>
       <div class="row">
